@@ -12,7 +12,7 @@ const Default = () => {
               <div className="card-header">
                 <h5>Bruno Paula</h5>
                 <span>
-                  Test 4:36pm ipsum dolor sit amet, consectetur adipisicing elit
+                  Test 5:03pm ipsum dolor sit amet, consectetur adipisicing elit
                 </span>
               </div>
               <div className="card-body">
