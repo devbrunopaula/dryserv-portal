@@ -13,7 +13,7 @@
     "chartist": "^0.11.4",
     "chartjs-plugin-datalabels": "^0.7.0",
     "feather-icons": "^4.24.1",
-    "firebase": "^7.6.0",
+    "firebase": "^10.9.0",
     "google-maps-react": "^2.0.2",
     "json-loader": "^0.5.7",
     "knob": "^1.1.0",
